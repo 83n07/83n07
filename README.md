@@ -1,8 +1,6 @@
 # Hi, I'm Benoy Sharry Kalathiparambil 👋
 
-### Robotics Software Engineer | Computer Vision | Industrial Robotics | ROS 2
-
-I am a Robotics Engineering graduate from **Technische Hochschule Würzburg–Schweinfurt (THWS), Germany**, passionate about building complete robotic systems—from simulation and calibration to perception and deployment.
+A Robotics Engineering graduate from **Technische Hochschule Würzburg–Schweinfurt (THWS), Germany**, passionate about building complete robotic systems—from simulation and calibration to perception and deployment.
 
 My work focuses on **robot software engineering**, **industrial automation**, **computer vision**, **6D pose estimation**, and **ROS 2**. I enjoy developing applications that bridge research and industrial robotics by combining intuitive user interfaces with reliable robot control and perception pipelines.
 
