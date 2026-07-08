@@ -48,7 +48,6 @@ in collaboration with the Institute for Robotics (CERI), THWS.
 **CAD:** SolidWorks, Geomagic Design X
 
 ---
----
 
 ## Development Activity
 
