@@ -48,19 +48,6 @@ in collaboration with the Institute for Robotics (CERI), THWS.
 **CAD:** SolidWorks, Geomagic Design X
 
 ---
-## GitHub Activity
-
-<div align="center">
-
-<img src="./github-contributions.svg" alt="GitHub contributions over time"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=83n07&hide_border=true&background=06122B&stroke=A89CE3&ring=3FBFCF&fire=F5A623&currStreakLabel=F5A623&sideLabels=9fb0d0&dates=9fb0d0&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak"/>
-
-</div>
-
-*Contribution activity across public repositories and visible private contributions.*
 
 ## Contact
 
