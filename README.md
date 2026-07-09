@@ -49,19 +49,20 @@ in collaboration with the Institute for Robotics (CERI), THWS.
 
 ---
 
-## Development Activity
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=83n07&hide_border=true&background=06122B&stroke=A89CE3&ring=3FBFCF&fire=F5A623&currStreakLabel=F5A623&sideLabels=9fb0d0&dates=9fb0d0&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=83n07&hide_border=true&background=06122B&stroke=A89CE3&ring=3FBFCF&fire=F5A623&currStreakLabel=F5A623&sideLabels=9fb0d0&dates=9fb0d0&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=83n07&bg_color=06122B&color=F5A623&line=A89CE3&point=3FBFCF&title_color=F5A623&area=true&hide_border=true" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=83n07&bg_color=06122B&color=F5A623&line=A89CE3&point=3FBFCF&title_color=F5A623&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
-*Overall GitHub activity — includes work on AMS-Calib (private) and other projects.*
+*Overall GitHub activity across public repositories and visible private contributions.*
 
 ## Contact
 
