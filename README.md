@@ -48,8 +48,6 @@ in collaboration with the Institute for Robotics (CERI), THWS.
 **CAD:** SolidWorks, Geomagic Design X
 
 ---
-
-
 ## GitHub Activity
 
 <div align="center">
@@ -58,11 +56,11 @@ in collaboration with the Institute for Robotics (CERI), THWS.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=83n07&bg_color=06122B&color=F5A623&line=A89CE3&point=3FBFCF&title_color=F5A623&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=83n07&bg_color=06122B&color=F5A623&line=A89CE3&point=3FBFCF&title_color=F5A623&area=true&hide_border=true" alt="Recent GitHub activity graph"/>
 
 </div>
 
-*Overall GitHub activity across public repositories and visible private contributions.*
+*Recent GitHub activity across public repositories and visible private contributions.*
 
 ## Contact
 
