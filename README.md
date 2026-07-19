@@ -1,6 +1,6 @@
 # Benoy Sharry Kalathiparambil
 
-Robotics Engineer based in Germany, graduating September 2026 from 
+Robotics Engineer based in Germany, 
 Technische Hochschule Würzburg-Schweinfurt (THWS).
 
 My work sits at the intersection of robot software, computer vision, 
